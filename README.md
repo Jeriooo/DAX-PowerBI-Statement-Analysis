@@ -8,3 +8,7 @@
 ![](/Images/Explicit_model.png)
 
 ![](/Images/DAX.png)
+
+![](/Images/Income_statement.png)
+
+![](/Images/Balance_sheet.png)
