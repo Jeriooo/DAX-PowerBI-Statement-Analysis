@@ -5,9 +5,9 @@
 
 ![](/Images/Data_model.png)
 
-![](/Images/Explicit_model.png)
+![](/Images/Explicit_values.png)
 
-![](/Images/DAX.png)
+![](/Images/Dax.png)
 
 ![](/Images/Income_statement.png)
 
